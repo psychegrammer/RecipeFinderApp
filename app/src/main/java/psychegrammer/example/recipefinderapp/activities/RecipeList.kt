@@ -1,7 +1,8 @@
-package psychegrammer.example.recipefinderapp
+package psychegrammer.example.recipefinderapp.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import psychegrammer.example.recipefinderapp.R
 
 class RecipeList : AppCompatActivity() {
 
